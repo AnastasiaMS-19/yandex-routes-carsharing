@@ -6,9 +6,9 @@
 
 ## Артефакты проекта  
 - [Декомпозиция требований](./decomposition.pdf)  
-- [Чек-листы на вёрстку](./checklists-layout.pdf)  
+- [Чек-листы на вёрстку](./checlists-layout.pdf)  
 - [Классы эквивалентности и граничные значения](./ce-bva.pdf)  
-- [Чек-листы на логику](./checklists-logic.pdf)  
+- [Чек-листы на логику](./checlists-logic.pdf)  
 - [Тест-кейсы на кнопку «Забронировать»](./test-cases.pdf)  
 - [Баг-репорты](./bug-reports.pdf)  
 
